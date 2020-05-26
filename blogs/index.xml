@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Somesh Rasal</title>
+    <link>https://someshrasal.github.io/blogs/</link>
+    <description>Recent content in Blogs on Somesh Rasal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2020 00:09:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://someshrasal.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World2</title>
+      <link>https://someshrasal.github.io/blogs/hello-world2/</link>
+      <pubDate>Wed, 27 May 2020 00:09:08 +0530</pubDate>
+      
+      <guid>https://someshrasal.github.io/blogs/hello-world2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://someshrasal.github.io/blogs/hello-world/</link>
+      <pubDate>Tue, 26 May 2020 20:34:50 +0530</pubDate>
+      
+      <guid>https://someshrasal.github.io/blogs/hello-world/</guid>
+      <description>This is Test blog</description>
+    </item>
+    
+  </channel>
+</rss>
