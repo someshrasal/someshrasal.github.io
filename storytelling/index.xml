@@ -6,17 +6,18 @@
     <description>Recent content in Storytellings on Somesh Rasal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 26 May 2020 23:20:14 +0530</lastBuildDate>
     
 	<atom:link href="https://someshrasal.github.io/storytelling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>Hello World</title>
       <link>https://someshrasal.github.io/storytelling/hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 May 2020 23:20:14 +0530</pubDate>
       
       <guid>https://someshrasal.github.io/storytelling/hello-world/</guid>
-      <description>baseurl = &amp;ldquo;https://someshrasal.github.io&amp;rdquo; title: &amp;ldquo;Hello World&amp;rdquo; date: 2020-05-26T23:20:14+05:30 draft: false This is Test blog</description>
+      <description>This is Test blog</description>
     </item>
     
   </channel>
