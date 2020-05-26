@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytellings on Somesh Rasal</title>
+    <link>https://someshrasal.github.io/storytelling/</link>
+    <description>Recent content in Storytellings on Somesh Rasal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://someshrasal.github.io/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://someshrasal.github.io/storytelling/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://someshrasal.github.io/storytelling/hello-world/</guid>
+      <description>baseurl = &amp;ldquo;https://someshrasal.github.io&amp;rdquo; title: &amp;ldquo;Hello World&amp;rdquo; date: 2020-05-26T23:20:14+05:30 draft: false This is Test blog</description>
+    </item>
+    
+  </channel>
+</rss>
