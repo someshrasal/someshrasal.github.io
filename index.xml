@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Somesh Rasal</title>
+    <link>https://someshrasal.github.io/</link>
+    <description>Recent content on Somesh Rasal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 May 2020 20:40:06 +0530</lastBuildDate>
+    
+	<atom:link href="https://someshrasal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://someshrasal.github.io/about/</link>
+      <pubDate>Tue, 26 May 2020 20:40:06 +0530</pubDate>
+      
+      <guid>https://someshrasal.github.io/about/</guid>
+      <description>Somesh Rasal is Cyber Security Enthusiast with experience in Web Application, Android Application, Network, Thick client Vulnerability Assessment, and Penetration Testing. He is currently working as a Security Analyst in Amdocs. His industrial experience covers sectors like Banking, Manufacturing, Software companies, Telecommunication, etc.
+He completed certifications like Certified Ethical Hacker, Certified Hacking Forensics Investigator and Ec-Council Security Analyst from Ec-Council. Also, He completed training for Autopsy, Mobilyze and successfully passed their certification exams.</description>
+    </item>
+    
+  </channel>
+</rss>
